@@ -18,7 +18,8 @@ Reference: https://blog.finjan.com/hashing-algorithms-a-closer-look-at-the-metho
 
 ## Usage
 
-### Build ### `make build`
+### Build
+`make build`
 
 Generates the 'DigitalSign.o' object file.
 
