@@ -32,12 +32,12 @@ Compiles the whole code into 'DigitalSign.o' object file.
 Creates a public key file and a private key file.
 
 ### File Signing 
-```$ make sign [input file name]```
+```$ make sign [input file path: string]```
 
 Sign the input file name into a signature file.
 
 ### File Authentication 
-```$ make auth [input file name]```
+```$ make auth [input file path: string]```
 
 Authenticate a file and its signature.
 
