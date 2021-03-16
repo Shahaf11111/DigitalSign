@@ -12,7 +12,11 @@ Hagit
 
 ## Purpose
 
-Signing and authenticating of a text file via the *Folding Method*.
+Signing and authentication of a text file via the *Folding Method*.
+
+This code uses RSA algorithm to generate private and public keys.
+
+Then, a .txt file can be signed using the private key of user A. The signed file is sent along with the public key and the signature files and can be authenticated via user B's public key and the file's signature.
 
 ## Usage
 First, clone this repo:
