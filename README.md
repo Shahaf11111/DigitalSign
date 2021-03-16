@@ -18,45 +18,21 @@ Reference: https://blog.finjan.com/hashing-algorithms-a-closer-look-at-the-metho
 
 ## Usage
 
-### Build
+### Build `make build`
 
 Generates the 'DigitalSign.o' object file.
 
-Enter the terminal and execute:
-
-`make build`
-
-
-
-### Key-Pair Generation
+### Key-Pair Generation `make genkeys`
 
 Creates a public key file and a private key file.
 
-Enter the terminal and execute:
-
-`make genkeys`
-
-
-
-### File Signing
+### File Signing `make sign [input file name]`
 
 Sign the input file name into a signature file.
 
-Enter the terminal and execute:
-
-`make sign [input file name]`
-
-
-
-### File Authentication
+### File Authentication `make auth [input file name]`
 
 Authenticate a file and its signature.
-
-Enter the terminal and execute:
-
-`make auth [input file name]`
-
-
 
 
 Enjoy!
