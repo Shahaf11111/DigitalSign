@@ -43,5 +43,5 @@ Sign the input file name into a signature file.
 
 Authenticate a file and its signature.
 
-
-Enjoy!
+#
+Enjoy :smiley:!
