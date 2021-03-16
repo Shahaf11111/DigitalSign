@@ -18,8 +18,10 @@ Reference: https://blog.finjan.com/hashing-algorithms-a-closer-look-at-the-metho
 
 ## Usage
 First, clone this repo:
+
 ```git clone https://github.com/Shahaf11111/DigitalSign.git```
-Then enter a terminal inside the directory and choose below:
+
+Then enter a terminal inside the directory and choose from below:
 
 ### Build
 ```make build```
