@@ -41,9 +41,10 @@ Sign the input file name into a signature file.
 
 Authenticate a file and its signature.
 
-### References
+## References
 - https://blog.finjan.com/hashing-algorithms-a-closer-look-at-the-methods-and-applications-for-encryption/
 - https://www.baeldung.com/folding-hashing-technique
+- https://www.lexology.com/library/detail.aspx?g=3305446b-36c2-47ad-ba9a-e4b70132f0ca
 
 #
 Enjoy :smiley:!
