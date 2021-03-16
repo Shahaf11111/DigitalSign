@@ -27,6 +27,7 @@ Enter the terminal and execute:
 `make build`
 
 
+
 ### Key-Pair Generation
 
 Creates a public key file and a private key file.
@@ -34,6 +35,7 @@ Creates a public key file and a private key file.
 Enter the terminal and execute:
 
 `make genkeys`
+
 
 
 ### File Signing
@@ -45,6 +47,7 @@ Enter the terminal and execute:
 `make sign [input file name]`
 
 
+
 ### File Authentication
 
 Authenticate a file and its signature.
@@ -52,6 +55,8 @@ Authenticate a file and its signature.
 Enter the terminal and execute:
 
 `make auth [input file name]`
+
+
 
 
 Enjoy!
