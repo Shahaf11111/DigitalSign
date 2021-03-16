@@ -1,5 +1,4 @@
 #include <stdarg.h>
-#include <time.h>
 
 #include "RSA.h"
 #include "HashMethod.h"

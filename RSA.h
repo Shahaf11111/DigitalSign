@@ -1,6 +1,8 @@
 #pragma once
 #include <stdio.h>
+#include <stdlib.h>
 #include <math.h>
+#include <time.h>
 
 
 // Calculate the remainder of a in the b'th power in the ring of m
