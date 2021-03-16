@@ -11,14 +11,14 @@ Hagit
 
 
 ## Purpose
+
 Signing and authenticating of a text file via the *Folding Method*.
 
 Reference: https://blog.finjan.com/hashing-algorithms-a-closer-look-at-the-methods-and-applications-for-encryption/
 
-
 ## Usage
 
-### Build `make build`
+### Build ### `make build`
 
 Generates the 'DigitalSign.o' object file.
 
