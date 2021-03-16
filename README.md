@@ -24,7 +24,7 @@ Then enter a terminal inside the directory and choose from below:
 ### Build
 ```$ make build```
 
-Compiles the whole code into 'DigitalSign.o' object file.
+Compiles the whole code into an executable object file.
 
 ### Key-Pair Generation 
 ```$ make genkeys```
