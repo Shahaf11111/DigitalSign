@@ -14,8 +14,6 @@ Hagit
 
 Signing and authenticating of a text file via the *Folding Method*.
 
-Reference: https://blog.finjan.com/hashing-algorithms-a-closer-look-at-the-methods-and-applications-for-encryption/
-
 ## Usage
 First, clone this repo:
 
@@ -42,6 +40,10 @@ Sign the input file name into a signature file.
 ```$ make auth [input file name]```
 
 Authenticate a file and its signature.
+
+### References
+- https://blog.finjan.com/hashing-algorithms-a-closer-look-at-the-methods-and-applications-for-encryption/
+- https://www.baeldung.com/folding-hashing-technique
 
 #
 Enjoy :smiley:!
