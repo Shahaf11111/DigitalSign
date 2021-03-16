@@ -47,4 +47,4 @@ Authenticate a file and its signature.
 - https://www.lexology.com/library/detail.aspx?g=3305446b-36c2-47ad-ba9a-e4b70132f0ca
 
 #
-Enjoy :smiley:!
+Enjoy! :smiley:
